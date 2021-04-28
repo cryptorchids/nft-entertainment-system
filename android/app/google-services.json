@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1026551100879",
+    "firebase_url": "https://ajv-gametime.firebaseio.com",
+    "project_id": "ajv-gametime",
+    "storage_bucket": "ajv-gametime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026551100879:android:fd6ca42ca7faa7c9668eba",
+        "android_client_info": {
+          "package_name": "com.ajvgametime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026551100879-lh48sskdsg46d33k7looeufm5mibh8ng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ajvgametime",
+            "certificate_hash": "bd7e583b5e1590f3a4f31779558450d2518678c3"
+          }
+        },
+        {
+          "client_id": "1026551100879-f29g4v0chtuiqv9iq8l68mt5ddicihhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSQ4zRXCT21Qf0VEwRt0VJaVakYT_S8lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026551100879-f29g4v0chtuiqv9iq8l68mt5ddicihhi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1026551100879-p1barpkfa4le4aakiuviencnuc0q3720.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ajvgametime"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

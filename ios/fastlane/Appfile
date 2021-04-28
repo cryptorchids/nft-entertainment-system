@@ -1,0 +1,8 @@
+app_identifier("com.ajvgametime") # The bundle identifier of your app
+apple_id("sbauch@gmail.com") # Your Apple email address
+
+itc_team_id("2119259") # App Store Connect Team ID
+team_id("VW52EE7G45") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
